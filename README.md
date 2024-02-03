@@ -7,4 +7,5 @@ Html, css, javascript kullanilarak  film sitesinin anasayfasi tasarlandi. Sayfay
 <h1> HTML-CSS-JavaScript kullanildi </h1>
 
 <h1> Ekran Gorunumu </h1>
+
 ![](movie.gif)
